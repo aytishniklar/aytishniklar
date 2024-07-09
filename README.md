@@ -6,14 +6,13 @@ Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
 </h3>
 <h2>Men biladigan Dasturlash tillari:</h2>
 <h4>Frontend</h4>
-<ol>
-  <li>HTML</li>
-  <li>CSS</li>
+<ol>                            <ol>  
+  <li>HTML</li>                    <li>PHP</li>
+  <li>CSS</li>                  </ol>
   <li>Bootstrap</li>
   <li>JavaScript</li>
   <li>JQuery</li>
   <li>React js</li>
-  <li>Figma</li>
 </ol>
 <h4>Backend</h4>
 <ol>
@@ -23,6 +22,12 @@ Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
   <li>Python</li>
   <li>Django</li>
   <li>Wordpress</li>
+</ol>
+<h4>Veb dizayn</h4>
+<ol>
+  <li>Figma</li>
+  <li>Canva</li>
+  <li>Photoshop</li>
 </ol>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/aytishniklar/aytishniklar/assets/161709554/f66be5f4-d70a-4a6f-b695-eb48043e0428)
