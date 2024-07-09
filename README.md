@@ -6,13 +6,16 @@ Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
 </h3>
 <h2>Men biladigan Dasturlash tillari:</h2>
 <h4>Frontend</h4>
-<ol>                            <ol>  
-  <li>HTML</li>                    <li>PHP</li>
-  <li>CSS</li>                  </ol>
+<ol>                            
+  <li>HTML</li> 
+  <li>CSS</li> 
   <li>Bootstrap</li>
   <li>JavaScript</li>
   <li>JQuery</li>
   <li>React js</li>
+   <li>Vue js</li>
+   <li>Angular</li>
+   <li>Next js</li>
 </ol>
 <h4>Backend</h4>
 <ol>
