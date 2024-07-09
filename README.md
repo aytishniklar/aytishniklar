@@ -10,6 +10,7 @@ Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
   <li>HTML</li> 
   <li>CSS</li> 
   <li>Bootstrap</li>
+   <li>Tailwind CSS</li>
   <li>JavaScript</li>
   <li>JQuery</li>
   <li>React js</li>
