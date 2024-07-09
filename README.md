@@ -4,7 +4,8 @@
 Men Toshkent shahridagi "Ishga marhamat" monomarkazi Veb dasturlash va Kompyuter savodxonligi kursi o'qituvchisi Husan Muminov. <br>
 Dasturlash soxasida qariyib 20 yildan beri faoliyatimni olib boraman.
 </h1>
-<h2>Dasturlash tillari:</h2>
+<h2>Men biladigan Dasturlash tillari:</h2>
+<h4>Frontend</h4>
 <ol>
   <li>HTML</li>
   <li>CSS</li>
@@ -12,6 +13,10 @@ Dasturlash soxasida qariyib 20 yildan beri faoliyatimni olib boraman.
   <li>JavaScript</li>
   <li>JQuery</li>
   <li>React js</li>
+  <li>Figma</li>
+</ol>
+<h4>Backend</h4>
+<ol>
   <li>PHP</li>
   <li>Laravel</li>
   <li>PHP MVC</li>
