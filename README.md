@@ -5,8 +5,20 @@ Men Toshkent shahridagi "Ishga marhamat" monomarkazi Veb dasturlash va Kompyuter
 Dasturlash soxasida qariyib 20 yildan beri faoliyatimni olib boraman.
 </h1>
 <h2>Dasturlash tillari:</h2>
-<ul>
+<ol>
   <li>HTML</li>
-</ul>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>JavaScript</li>
+  <li>JQuery</li>
+  <li>React js</li>
+  <li>PHP</li>
+  <li>Laravel</li>
+  <li>PHP MVC</li>
+  <li>Python</li>
+  <li>Django</li>
+  <li>Wordpress</li>
+  <li>Figma</li>
+</ol>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/aytishniklar/aytishniklar/assets/161709554/f66be5f4-d70a-4a6f-b695-eb48043e0428)
