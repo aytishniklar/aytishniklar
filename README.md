@@ -4,7 +4,6 @@
 Men Toshkent shahridagi "Ishga marhamat" monomarkazi Veb dasturlash va Kompyuter savodxonligi kursi o'qituvchisi Husan Muminov. <br>
 Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
 </h3>
- <a >Kasb tanlash</a>
 <h2>Men biladigan Dasturlash tillari:</h2>
 <h4>Frontend</h4>
 <ol>                            
