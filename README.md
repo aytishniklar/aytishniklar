@@ -3,6 +3,9 @@
 <h3>Assalomu alaykum. <br>
 Men Toshkent shahridagi "Ishga marhamat" monomarkazi Veb dasturlash va Kompyuter savodxonligi kursi o'qituvchisi Husan Muminov. <br>
 Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 </h3>
 <h2>Men biladigan Dasturlash tillari:</h2>
 <h4>Frontend</h4>
