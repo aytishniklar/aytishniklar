@@ -50,5 +50,10 @@ Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
   <li>Photoshop</li>
   <li>Corel Draw</li>
 </ol>
+ <div id="badges">
+  <a href="https://github-readme-streak-stats.herokuapp.com/aytishniklaruz">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/aytishniklar/aytishniklar/assets/161709554/f66be5f4-d70a-4a6f-b695-eb48043e0428)
