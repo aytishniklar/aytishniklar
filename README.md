@@ -16,10 +16,27 @@ Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
   <a href="https://t.me/aytishniklaruz">
     <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Twitter Badge"/>
   </a>
+     <a href="https://github.com/aytishniklar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 </h3>
 <h2>Men biladigan Dasturlash tillari:</h2>
 <h4>Frontend</h4>
+<div id="badges">
+ 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
+
+  <a href="https://www.youtube.com/@aytishniklar">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://t.me/aytishniklaruz">
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Twitter Badge"/>
+  </a>
+     <a href="https://github.com/aytishniklar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <ol>                            
   <li>HTML</li> 
   <li>CSS</li> 
