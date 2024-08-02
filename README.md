@@ -21,7 +21,6 @@ Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
   </a>
 </div>
 </h3>
-<h2>Men biladigan Dasturlash tillari:</h2>
 <h4>Frontend</h4>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="140" height="40"/>&nbsp;
