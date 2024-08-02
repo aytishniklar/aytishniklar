@@ -24,10 +24,10 @@ Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
 <h2>Men biladigan Dasturlash tillari:</h2>
 <h4>Frontend</h4>
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="160" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="160" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" title="Java" alt="Java" width="160" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="160" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="140" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="140" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" title="Java" alt="Java" width="140" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="140" height="40"/>&nbsp;
 </div>
 
 <ol>                            
