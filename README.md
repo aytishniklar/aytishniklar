@@ -35,29 +35,15 @@ Dasturlash soxasida qariyib 17 yildan beri faoliyatimni olib boraman.
       <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" title="JavaScript" alt="JavaScript" width="140" height="40"/>&nbsp;
 
 </div>
-
-<ol>                            
-  <li>HTML</li> 
-  <li>CSS</li> 
-  <li>Bootstrap</li>
-   <li>Tailwind CSS</li>
-  <li>JavaScript</li>
-  <li>JQuery</li>
-  <li>React js</li>
-   <li>Vue js</li>
-   <li>Angular</li>
-   <li>Next js</li>
-</ol>
 <h4>Backend</h4>
-<ol>
-  <li>PHP</li>
-  <li>Laravel</li>
-  <li>PHP MVC</li>
-  <li>Python</li>
-  <li>Django</li>
-  <li>Wordpress</li>
-</ol>
+<div>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="HTML5" alt="HTML" width="140" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"  title="CSS3" alt="CSS" width="140" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Java" alt="Java" width="140" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" title="JavaScript" alt="JavaScript" width="140" height="40"/>&nbsp;
+</div>
 <h4>Veb dizayn</h4>
+
 <ol>
   <li>Figma</li>
   <li>Canva</li>
